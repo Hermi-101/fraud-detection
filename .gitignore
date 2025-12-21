@@ -69,11 +69,6 @@ venv.bak/
 .DS_Store
 Thumbs.db
 
-# Models (if you want to exclude, otherwise remove this)
-models/
-# Keep if you want to exclude models, but your structure shows it should be tracked
-# Add # to the line above if you want to track models folder
 
-# Logs
 logs/
 *.log
